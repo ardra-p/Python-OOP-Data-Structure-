@@ -10,7 +10,7 @@ Each data structure is written in its own `.py` file for simplicity and clarity.
 
 | Folder Name         | Description                              |
 |---------------------|------------------------------------------|
-| `LinkedList/`        | Singly Linked List                       |
+| `Linkedlist/`        | Singly Linked List                       |
 | `DoublyLinkedList/`  | Doubly Linked List                       |
 | `CircularLinkedList/`| Circular Linked List                     |
 | `Stack/`             | Stack (LIFO)                             |
