@@ -8,17 +8,19 @@ Each data structure is written in its own `.py` file for simplicity and clarity.
 
 ## 📘 List of Data Structures
 
-- `linked_list.py` – Singly Linked List
-- `doubly_linked_list.py` – Doubly Linked List
-- `circular_linked_list.py` – Circular Linked List
-- `stack.py` – Stack (LIFO)
-- `queue.py` – Queue (FIFO)
-- `binary_tree.py` – Binary Tree + Traversals
-- `bst.py` – Binary Search Tree
-- `heap.py` – Min/Max Heap
-- `hash_table.py` – Hash Table
-- `graph.py` – Graph (with BFS, DFS)
-- `trie.py` – Trie (Prefix Tree)
+| Folder Name         | Description                              |
+|---------------------|------------------------------------------|
+| `LinkedList/`        | Singly Linked List                       |
+| `DoublyLinkedList/`  | Doubly Linked List                       |
+| `CircularLinkedList/`| Circular Linked List                     |
+| `Stack/`             | Stack (LIFO)                             |
+| `Queue/`             | Queue (FIFO)                             |
+| `BinaryTree/`        | Binary Tree + Pre/In/Post Traversals     |
+| `BST/`               | Binary Search Tree                       |
+| `Heap/`              | Min/Max Heap                             |
+| `HashTable/`         | Basic Hash Table                         |
+| `Graph/`             | Graph with BFS & DFS                     |
+| `Trie/`              | Trie (Prefix Tree)                       |
 
 ---
 
